@@ -210,9 +210,6 @@ Examples of using asnmap from Go code are provided in the [examples](examples/) 
 
 <div align="center">
 
-**asnmap** is made with ❤️ by the [khulnasoft-labs](https://khulnasoft-labs.io) team and distributed under [MIT License](LICENSE).
-
-
-<a href="https://discord.gg/khulnasoft-labs"><img src="https://raw.githubusercontent.com/khulnasoft-labs/nuclei-burp-plugin/main/static/join-discord.png" width="300" alt="Join Discord"></a>
+**asnmap** is made with ❤️ by the [KhulnaSoft DevOps](https://khulnasoft.com) team and distributed under [MIT License](LICENSE).
 
 </div>
