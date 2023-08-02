@@ -15,8 +15,8 @@ github.com/aymanbagabas/go-osc52/v2 v2.0.1 h1:HwpRHbFMcZLEVr42D4p7XBqjyuxQH5SMiE
 github.com/aymanbagabas/go-osc52/v2 v2.0.1/go.mod h1:uYgXzlJ7ZpABp8OJ+exZzJJhRNQ2ASbcXHWsFqH8hp8=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
-github.com/bits-and-blooms/bitset v1.3.1 h1:y+qrlmq3XsWi+xZqSaueaE8ry8Y127iMxlMfqcK8p0g=
-github.com/bits-and-blooms/bloom/v3 v3.4.0 h1:9zesenPR5M3SLIJ/esQ84o1eSVFY5Rw5d+pa1tiXQNA=
+github.com/bits-and-blooms/bitset v1.8.0 h1:FD+XqgOZDUxxZ8hzoBFuV9+cGWY9CslN6d5MS5JVb4c=
+github.com/bits-and-blooms/bloom/v3 v3.5.0 h1:AKDvi1V3xJCmSR6QhcBfHbCN4Vf8FfxeWkMNQfmAGhY=
 github.com/charmbracelet/glamour v0.6.0 h1:wi8fse3Y7nfcabbbDuwolqTqMQPMnVPeZhDM273bISc=
 github.com/charmbracelet/glamour v0.6.0/go.mod h1:taqWV4swIMMbWALc0m7AfE9JkPSU8om2538k9ITBxOc=
 github.com/cheggaaa/pb/v3 v3.1.4 h1:DN8j4TVVdKu3WxVwcRKu0sG00IIU6FewoABZzXbRQeo=
@@ -69,8 +69,8 @@ github.com/khulnasoft-labs/goflags v0.1.11 h1:oeScJZFDpEB7m6fomgKUHSnKd5ebpoF/Cs
 github.com/khulnasoft-labs/goflags v0.1.11/go.mod h1:N59F7WwxA7M1sgHK5nNC7N0uSEopii905wcl3+QyaoE=
 github.com/khulnasoft-labs/gologger v1.1.11 h1:8kW1kaPdEMcIcnnYGg7B5za5U3NMMQzO4MK4CYSg59Q=
 github.com/khulnasoft-labs/gologger v1.1.11/go.mod h1:uf59FwoW8zCJryikNSc5I0gmkNUqSkl4tRSCjpV6uBk=
-github.com/khulnasoft-labs/hmap v0.0.14 h1:G9EsQY20Ttua4XrooP33LO+odkvaH3x4naYFEnAXEhI=
-github.com/khulnasoft-labs/hmap v0.0.14/go.mod h1:pEgEU8ypqNDSp4YnEepJeWunPKeH55j3yXbBUC/QqpM=
+github.com/khulnasoft-labs/hmap v0.0.15 h1:marKVrgRtrvGWcfo/jDnc8xCAgWnjn0ZxpUSezLWQK4=
+github.com/khulnasoft-labs/hmap v0.0.15/go.mod h1:Sgi20eDVUJVbO/h/zs2ycnIZIHMeR3bw7qbdX7+HAlU=
 github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c h1:aCzEdCx3U+cAt82OQhS1kI6o13Lgz7lebFAR/Jmfv48=
 github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c/go.mod h1:9ayMptMoeGxFFzVvxR0k6Zapp3CBcQhr2fRH8SNYaOw=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e h1:hgdtqOblqeHfuTjmXbINd8zlbNTDiW/2hZoyGxKXiKE=
