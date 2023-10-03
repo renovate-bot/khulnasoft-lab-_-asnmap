@@ -3,7 +3,7 @@ package asnmap
 import (
 	"testing"
 
-	"github.com/khulnasoft-labs/gologger"
+	"github.com/khulnasoft-lab/gologger"
 	"github.com/stretchr/testify/require"
 )
 

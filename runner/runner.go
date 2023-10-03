@@ -7,11 +7,11 @@ import (
 	"os"
 	"strings"
 
-	asnmap "github.com/khulnasoft-labs/asnmap/libs"
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/hmap/store/hybrid"
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	sliceutil "github.com/khulnasoft-labs/utils/slice"
+	asnmap "github.com/khulnasoft-lab/asnmap/libs"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/hmap/store/hybrid"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	sliceutil "github.com/khulnasoft-lab/utils/slice"
 )
 
 type Runner struct {

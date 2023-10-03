@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	asnmap "github.com/khulnasoft-labs/asnmap/libs"
+	asnmap "github.com/khulnasoft-lab/asnmap/libs"
 )
 
 func main() {

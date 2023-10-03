@@ -4,8 +4,8 @@ import (
 	"regexp"
 
 	"github.com/asaskevich/govalidator"
-	iputil "github.com/khulnasoft-labs/utils/ip"
-	stringsutil "github.com/khulnasoft-labs/utils/strings"
+	iputil "github.com/khulnasoft-lab/utils/ip"
+	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 
 type InputType uint8

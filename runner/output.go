@@ -6,8 +6,8 @@ import (
 	"net"
 	"strings"
 
-	asnmap "github.com/khulnasoft-labs/asnmap/libs"
-	iputil "github.com/khulnasoft-labs/utils/ip"
+	asnmap "github.com/khulnasoft-lab/asnmap/libs"
+	iputil "github.com/khulnasoft-lab/utils/ip"
 )
 
 var csvHeaders = [][]string{{"timestamp", "input", "as_number", "as_name", "as_country", "as_range"}}

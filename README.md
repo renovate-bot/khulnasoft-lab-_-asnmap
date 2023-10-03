@@ -6,11 +6,11 @@
 <h4 align="center">Go CLI and Library for quickly mapping organization network ranges using <a href="https://en.wikipedia.org/wiki/Autonomous_system_(Internet)">ASN</a> information.</h4>
 
 <p align="center">
-<a href="https://goreportcard.com/report/github.com/khulnasoft-labs/asnmap"><img src="https://goreportcard.com/badge/github.com/khulnasoft-labs/asnmap"></a>
-<a href="https://github.com/khulnasoft-labs/asnmap/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<a href="https://github.com/khulnasoft-labs/asnmap/releases"><img src="https://img.shields.io/github/release/khulnasoft-labs/asnmap"></a>
+<a href="https://goreportcard.com/report/github.com/khulnasoft-lab/asnmap"><img src="https://goreportcard.com/badge/github.com/khulnasoft-lab/asnmap"></a>
+<a href="https://github.com/khulnasoft-lab/asnmap/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/khulnasoft-lab/asnmap/releases"><img src="https://img.shields.io/github/release/khulnasoft-lab/asnmap"></a>
 <a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/khulnasoft-labs"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
+<a href="https://discord.gg/khulnasoft-lab"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#running-asnmap">Running asnmap</a> •
-  <a href="https://discord.gg/khulnasoft-labs">Join Discord</a>
+  <a href="https://discord.gg/khulnasoft-lab">Join Discord</a>
 </p>
 
 
@@ -41,10 +41,10 @@
 
 ## Installation
 
-asnmap requires **Go 1.18** to install successfully. To install, just run the below command or download pre-compiled binary from [release page](https://github.com/khulnasoft-labs/asnmap/releases).
+asnmap requires **Go 1.18** to install successfully. To install, just run the below command or download pre-compiled binary from [release page](https://github.com/khulnasoft-lab/asnmap/releases).
 
 ```console
-go install github.com/khulnasoft-labs/asnmap/cmd/asnmap@latest
+go install github.com/khulnasoft-lab/asnmap/cmd/asnmap@latest
 ```
 
 ## Usage
@@ -125,7 +125,7 @@ echo GOOGLE | ./asnmap
  / __ |_\ \/    /  ' \/ _  / _ \
 /_/ |_/___/_/|_/_/_/_/\_,_/ .__/
                          /_/    v0.0.1
-		khulnasoft-labs.io
+		khulnasoft-lab.io
 
 Use with caution. You are responsible for your actions
 Developers assume no liability and are not responsible for any misuse or damage.

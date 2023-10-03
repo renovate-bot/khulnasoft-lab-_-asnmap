@@ -17,7 +17,7 @@ jobs:
       - name: Get Github tag
         id: meta
         run: |
-          curl --silent "https://api.github.com/repos/khulnasoft-labs/asnmap/releases/latest" | jq -r .tag_name | xargs -I {} echo TAG={} >> $GITHUB_OUTPUT
+          curl --silent "https://api.github.com/repos/khulnasoft-lab/asnmap/releases/latest" | jq -r .tag_name | xargs -I {} echo TAG={} >> $GITHUB_OUTPUT
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
@@ -38,4 +38,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: khulnasoft-labs/asnmap:latest,khulnasoft-labs/asnmap:${{ steps.meta.outputs.TAG }}
+          tags: khulnasoft-lab/asnmap:latest,khulnasoft-lab/asnmap:${{ steps.meta.outputs.TAG }}

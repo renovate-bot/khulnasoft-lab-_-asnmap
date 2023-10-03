@@ -4,8 +4,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/khulnasoft-labs/asnmap/runner"
-	"github.com/khulnasoft-labs/gologger"
+	"github.com/khulnasoft-lab/asnmap/runner"
+	"github.com/khulnasoft-lab/gologger"
 )
 
 func main() {

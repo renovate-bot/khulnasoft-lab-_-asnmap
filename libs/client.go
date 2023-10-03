@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	stringsutil "github.com/khulnasoft-labs/utils/strings"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	stringsutil "github.com/khulnasoft-lab/utils/strings"
 	"golang.org/x/net/proxy"
 )
 

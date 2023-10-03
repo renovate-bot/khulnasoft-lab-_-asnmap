@@ -3,7 +3,7 @@ package runner
 import (
 	"testing"
 
-	asnmap "github.com/khulnasoft-labs/asnmap/libs"
+	asnmap "github.com/khulnasoft-lab/asnmap/libs"
 
 	"github.com/stretchr/testify/require"
 )

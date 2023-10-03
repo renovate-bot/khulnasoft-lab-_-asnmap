@@ -6,12 +6,12 @@ import (
 	"os"
 	"strings"
 
-	asnmap "github.com/khulnasoft-labs/asnmap/libs"
-	"github.com/khulnasoft-labs/goflags"
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/gologger/levels"
-	fileutil "github.com/khulnasoft-labs/utils/file"
-	updateutils "github.com/khulnasoft-labs/utils/update"
+	asnmap "github.com/khulnasoft-lab/asnmap/libs"
+	"github.com/khulnasoft-lab/goflags"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/gologger/levels"
+	fileutil "github.com/khulnasoft-lab/utils/file"
+	updateutils "github.com/khulnasoft-lab/utils/update"
 )
 
 type OnResultCallback func([]*asnmap.Response)

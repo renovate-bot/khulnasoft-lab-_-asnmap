@@ -1,7 +1,7 @@
 package asnmap
 
 import (
-	"github.com/khulnasoft-labs/retryabledns"
+	"github.com/khulnasoft-lab/retryabledns"
 )
 
 var resolvers = []string{"8.8.8.8:53", "8.8.4.4:53"}
