@@ -9,7 +9,6 @@ require (
 	github.com/khulnasoft-lab/hmap v0.0.17
 	github.com/khulnasoft-lab/retryabledns v1.0.32
 	github.com/khulnasoft-lab/utils v0.0.46
-	github.com/khulnasoft-labs/mapcidr v1.1.3
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.17.0
 )
@@ -37,8 +36,7 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/khulnasoft-lab/blackrock v0.0.3 // indirect
-	github.com/khulnasoft-labs/blackrock v0.0.2 // indirect
-	github.com/khulnasoft-labs/utils v0.0.45 // indirect
+	github.com/khulnasoft-lab/mapcidr v1.1.4 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect

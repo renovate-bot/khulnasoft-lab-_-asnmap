@@ -3,7 +3,7 @@ package asnmap
 import (
 	"net"
 
-	"github.com/khulnasoft-labs/mapcidr"
+	"github.com/khulnasoft-lab/mapcidr"
 )
 
 func GetCIDR(output []*Response) ([]*net.IPNet, error) {
