@@ -77,6 +77,8 @@ github.com/khulnasoft-lab/mapcidr v1.1.4 h1:fTC6P2wtM1jaFpnm61rZtOjJa+u9dvIPTSfS
 github.com/khulnasoft-lab/mapcidr v1.1.4/go.mod h1:Os1/Ow4bQpU1GUKlBYv6jaO5NMozaFvpAojA12R8B+8=
 github.com/khulnasoft-lab/retryabledns v1.0.33 h1:6HsJQYyK5mezddheNtSSipsmemkRe13pMdRsSBiqvJ8=
 github.com/khulnasoft-lab/retryabledns v1.0.33/go.mod h1:OiLtjrTnCspzuD7wjMLJ6TmgeE1hCSGg8chsImD1Vnc=
+github.com/khulnasoft-lab/retryabledns v1.0.34 h1:pGbbcCyV8GsWLGVcMoXs7UqVxtBoziOYwOzFyP4wCOU=
+github.com/khulnasoft-lab/retryabledns v1.0.34/go.mod h1:OiLtjrTnCspzuD7wjMLJ6TmgeE1hCSGg8chsImD1Vnc=
 github.com/khulnasoft-lab/utils v0.0.47 h1:ILZWJ5mS696XnQC4vuizNnYZAf9sd9ZY4xuST8y8dtY=
 github.com/khulnasoft-lab/utils v0.0.47/go.mod h1:4nuOcyrid0Br7/nwZvMQoha0tCiH3LAmWsD8a+2ufDs=
 github.com/klauspost/compress v1.4.1/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0guNDohfE1A=

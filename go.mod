@@ -8,7 +8,7 @@ require (
 	github.com/khulnasoft-lab/gologger v1.1.13
 	github.com/khulnasoft-lab/hmap v0.0.17
 	github.com/khulnasoft-lab/mapcidr v1.1.4
-	github.com/khulnasoft-lab/retryabledns v1.0.33
+	github.com/khulnasoft-lab/retryabledns v1.0.34
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.17.0
